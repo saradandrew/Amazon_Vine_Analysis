@@ -6,7 +6,7 @@ The purpose of this project is to analyze Amazon reviews written by members of t
 ## Results
 - There were 22 Vine reviews and 26,987 non-Vine reviews.
 
-
+<img width="184" alt="Screen Shot 2022-10-03 at 5 40 41 PM" src="https://user-images.githubusercontent.com/107032720/193698939-09e65852-d830-422d-906a-45e9dbed6812.png">
 - Of the 22 Vine reviews, 13 were 5-star reviews.
 
 
