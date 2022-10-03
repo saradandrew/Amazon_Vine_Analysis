@@ -26,3 +26,6 @@ The purpose of this project is to analyze Amazon reviews written by members of t
 <img width="266" alt="Screen Shot 2022-10-03 at 5 42 53 PM" src="https://user-images.githubusercontent.com/107032720/193699214-77040273-5557-4b14-82ed-d9914a20460b.png">
 
 ## Summary
+From the analysis conducted, there is no indication that monetary incentive encouraages more reviews from Amazon customers. There was only a 6% difference between 5-star reviews from Vine program participants and non-Vine program participants.
+
+An additional analysis I would recommend is to add all Vine program reviews from each product category to see if there is a signifcant amount of reviews from Vine participants. We could then calculate the number of 5-star reviews and the percentage of 5-star reviews from Vine and non-Vine participants. That way we would be able to determine if there is a significant correlation between monetary incentive and positive reviews. I would also recommend analyzing the ocurrence of 1 and 2 star reviews amongst Vine and non-Vine participants as well.
