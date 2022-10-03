@@ -15,11 +15,14 @@ The purpose of this project is to analyze Amazon reviews written by members of t
 
 - Of the 26,987 non-Vine reviews, 14,475 were 5-star reviews.
 
+<img width="200" alt="Screen Shot 2022-10-03 at 5 42 16 PM" src="https://user-images.githubusercontent.com/107032720/193699192-b3c5db4c-8112-4b9f-a876-c3490bdefe51.png">
 
 - 59.1% of Vine reviews were 5-star reviews.
 
+<img width="258" alt="Screen Shot 2022-10-03 at 5 42 35 PM" src="https://user-images.githubusercontent.com/107032720/193699199-9f6c6acf-cd2f-4775-b38f-8cb474567eb9.png">
 
 - 53.6% of non-Vine reviews were 5-star reviews.
 
+<img width="266" alt="Screen Shot 2022-10-03 at 5 42 53 PM" src="https://user-images.githubusercontent.com/107032720/193699214-77040273-5557-4b14-82ed-d9914a20460b.png">
 
 ## Summary
