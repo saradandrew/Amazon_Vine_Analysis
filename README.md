@@ -1,4 +1,4 @@
-# Amazon_Vine_Analysis
+# Amazon Vine Analysis
 
 ## Analysis Overview
 The purpose of this project is to analyze Amazon reviews written by members of the Vine program. Specifically, I am analyzing the reviews of shoes brought through Amazon. In completing the analysis, I have conducted the ETL process and used PySpark to determine if there is any bias toward favorable reviews from Vine members.
